@@ -2,6 +2,11 @@
 
 This repository contains scripts that I coded and used for the game Chronospark for reference of my ability.
 
+Some notables are: 
+- Human Controller
+- Movie Controller
+- Anything with Manager in it
+
 All systems were designed and implemented modularly so cards could be used to add functionality such as a new achievement, new Trait, new Human bonus, new tutorial command etc. 
 
 Physics had to be hard coded to work towards the center of the planet.
